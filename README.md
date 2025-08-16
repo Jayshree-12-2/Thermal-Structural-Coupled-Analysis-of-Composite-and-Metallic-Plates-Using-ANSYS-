@@ -1,0 +1,1 @@
+# Thermal-Structural-Coupled-Analysis-of-Composite-and-Metallic-Plates-Using-ANSYS-
